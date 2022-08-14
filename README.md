@@ -1,5 +1,5 @@
 # scheduled-reports
-Scheduled tasks on Azure. The five reports were placed on GCP. 
+Scheduled tasks on Azure. The five reports were placed on GCP automately. 
 
 Five subtasks in it.    
 1. Compare the data between MongoDB_account with CRM_accounts
