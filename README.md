@@ -24,12 +24,12 @@ from elasticsearch_dsl import Search, MultiSearch
 ```
 
 functions_mongo.py and queries.py
-~~~
+```Python
 from pymongo import MongoClient
-~~~
+```
 
 functions_zoho.py
-```
+```python
 base_url = constants.ZOHO_URL_TOKEN
 params = settings.CRM_ZOHO
 ```
