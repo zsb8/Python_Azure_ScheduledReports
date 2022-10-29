@@ -15,3 +15,6 @@ Five subtasks in it.
 
 
 ![image](https://user-images.githubusercontent.com/75282285/184558852-d041f219-a69d-4096-8c85-b69b7cfc4a62.png)
+
+# The libraries used:
+![image](https://user-images.githubusercontent.com/75282285/198831392-bf468a42-8fa7-4d3e-b08d-3b3c6e5dc203.png)
