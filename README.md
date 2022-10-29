@@ -18,10 +18,10 @@ Five subtasks in it.
 
 # The libraries used:
 functions_elasticsearch.py
-~~~
+```python
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search, MultiSearch
-~~~
+```
 
 functions_mongo.py and queries.py
 ~~~
