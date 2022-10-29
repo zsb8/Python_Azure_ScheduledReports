@@ -17,5 +17,7 @@ Five subtasks in it.
 ![image](https://user-images.githubusercontent.com/75282285/184558852-d041f219-a69d-4096-8c85-b69b7cfc4a62.png)
 
 # The libraries used:
+In __init__.py
 ![image](https://user-images.githubusercontent.com/75282285/198831449-dfc832af-78fe-48b2-bcfb-c4478aefa424.png)
+
 ![image](https://user-images.githubusercontent.com/75282285/198831485-e8922c74-10e9-462b-8b3e-af113fb94fbd.png)
